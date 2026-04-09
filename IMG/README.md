@@ -21,8 +21,6 @@ Os relacionamentos foram estabelecidos via chaves substitutas (Surrogate Keys) p
 
 ### 3\. Visualização Técnica do Modelo
 
-Abaixo, a representação visual da estrutura lógica e física implementada:
+Nos arquivos anexados, a representação visual da estrutura lógica e física implementada:
 
 | Visão do Modelo (Star Schema) | Detalhe das Tabelas (Metadados) |
-
-mpressiona qualquer recrutador ou líder técnico. Gostou da estrutura?
