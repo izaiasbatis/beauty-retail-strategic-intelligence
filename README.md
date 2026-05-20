@@ -59,6 +59,17 @@ FROM base_transacional;
 
 <img width="1688" height="984" alt="image" src="https://github.com/user-attachments/assets/299c7280-fc76-407a-8b7f-f5678eb8c308" />
 
+<img width="1681" height="1052" alt="image" src="https://github.com/user-attachments/assets/87517c0e-bf0b-4fd4-aa53-3c2ccfc704c9" />
+
+<img width="1681" height="1052" alt="image" src="https://github.com/user-attachments/assets/44a75430-7b00-426d-8cf1-20b957dab86b" />
+
+<img width="1677" height="907" alt="image" src="https://github.com/user-attachments/assets/3677cd57-97cf-4772-98ed-c0a2888d8683" />
+
+<img width="1664" height="865" alt="image" src="https://github.com/user-attachments/assets/2ce0050a-877f-4319-a5ec-814bb274a07e" />
+
+
+
+
 
 > **Nota Técnica:** Todos os relacionamentos de tabelas foram validados (Star Schema) para evitar duplicidade de dados e garantir que as métricas de faturamento reflitam o valor líquido após deduções de cancelamentos e descontos.
 
