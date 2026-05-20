@@ -59,15 +59,10 @@ FROM base_transacional;
 
 <img width="1688" height="984" alt="image" src="https://github.com/user-attachments/assets/299c7280-fc76-407a-8b7f-f5678eb8c308" />
 
-:::note
-Consulte mais imagens no diretório IMG de projeto
-:::
 
-
-
-
-
-> **Nota Técnica:** Todos os relacionamentos de tabelas foram validados (Star Schema) para evitar duplicidade de dados e garantir que as métricas de faturamento reflitam o valor líquido após deduções de cancelamentos e descontos.
+> **Nota Técnica:** 
+1 - Todos os relacionamentos de tabelas foram validados (Star Schema) para evitar duplicidade de dados e garantir que as métricas de faturamento reflitam o valor líquido após deduções de cancelamentos e descontos;
+2 - Consulte mais imagens no diretório IMG de projeto.
 
 -----
 
