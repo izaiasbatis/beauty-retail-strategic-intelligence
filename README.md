@@ -61,7 +61,7 @@ FROM base_transacional;
 
 <img width="1681" height="1052" alt="image" src="https://github.com/user-attachments/assets/87517c0e-bf0b-4fd4-aa53-3c2ccfc704c9" />
 
-<img width="1681" height="1052" alt="image" src="https://github.com/user-attachments/assets/44a75430-7b00-426d-8cf1-20b957dab86b" />
+<img width="1684" height="1051" alt="image" src="https://github.com/user-attachments/assets/e58357ef-c79a-4414-96e0-72599f657496" />
 
 <img width="1677" height="907" alt="image" src="https://github.com/user-attachments/assets/3677cd57-97cf-4772-98ed-c0a2888d8683" />
 
