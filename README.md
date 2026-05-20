@@ -59,13 +59,9 @@ FROM base_transacional;
 
 <img width="1688" height="984" alt="image" src="https://github.com/user-attachments/assets/299c7280-fc76-407a-8b7f-f5678eb8c308" />
 
-<img width="1681" height="1052" alt="image" src="https://github.com/user-attachments/assets/87517c0e-bf0b-4fd4-aa53-3c2ccfc704c9" />
-
-<img width="1684" height="1051" alt="image" src="https://github.com/user-attachments/assets/e58357ef-c79a-4414-96e0-72599f657496" />
-
-<img width="1677" height="907" alt="image" src="https://github.com/user-attachments/assets/3677cd57-97cf-4772-98ed-c0a2888d8683" />
-
-<img width="1664" height="865" alt="image" src="https://github.com/user-attachments/assets/2ce0050a-877f-4319-a5ec-814bb274a07e" />
+:::note
+Consulte mais imagens no diretório IMG de projeto
+:::
 
 
 
