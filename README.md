@@ -57,9 +57,8 @@ FROM base_transacional;
 
 ## 7\. Visualização dos Resultados
 
-| Dashboard de Performance por Unidade | Análise de Perfil de Cliente |
-| :--- | :--- |
-|  |  |
+<img width="1688" height="984" alt="image" src="https://github.com/user-attachments/assets/299c7280-fc76-407a-8b7f-f5678eb8c308" />
+
 
 > **Nota Técnica:** Todos os relacionamentos de tabelas foram validados (Star Schema) para evitar duplicidade de dados e garantir que as métricas de faturamento reflitam o valor líquido após deduções de cancelamentos e descontos.
 
