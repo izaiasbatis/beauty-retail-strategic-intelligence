@@ -63,6 +63,7 @@ FROM base_transacional;
 > **Nota Técnica:**
 > 
 1 - Todos os relacionamentos de tabelas foram validados (Star Schema) para evitar duplicidade de dados e garantir que as métricas de faturamento reflitam o valor líquido após deduções de cancelamentos e descontos;
+>
 2 - Consulte mais imagens no diretório IMG de projeto.
 
 -----
