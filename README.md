@@ -54,7 +54,7 @@ Neste repositório, apresento a resolução técnica focado em inteligência de 
 
 ## 4\. Metodologia Técnica (Engenharia de Dados)
 
-Para entregar valor, não utilizei apenas dados brutos. Apliquei lógicas de SQL para criar métricas que o sistema original não fornecia, garantindo a rastreabilidade da jornada do cliente:
+Para entregar valor, não utilizei apenas dados brutos. Apliquei lógicas de SQL para criar argumentos que se comportam como dimensão e métricas que o sistema original não fornecia, garantindo a rastreabilidade da jornada do cliente:
 
 ```sql
 -- Minha lógica para classificação de produtividade e fidelidade
