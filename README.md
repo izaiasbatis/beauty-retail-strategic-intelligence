@@ -2,20 +2,54 @@
 
 ## 1\. Visão Geral do Projeto
 
-Neste repositório, apresento a resolução de um case técnico focado em inteligência de negócios para uma rede de franquias. Meu objetivo foi diagnosticar oscilações de faturamento e identificar gargalos operacionais em 35 unidades. A análise foca no pilar central do modelo de negócio: a **eficiência e rapidez no atendimento**, utilizando dados reais para separar unidades de alta performance daquelas que necessitam de intervenção estratégica.
+Neste repositório, apresento a resolução técnica focado em inteligência de negócios para uma rede de franquias. Meu objetivo foi diagnosticar oscilações de faturamento e identificar gargalos operacionais em 35 unidades. A análise foca no pilar central do modelo de negócio: a **eficiência e rapidez no atendimento**, utilizando técnicas para separar unidades de alta performance daquelas que necessitam de intervenção estratégica.
 
 ## 2\. Pilares da Solução
 
   * **Data Modeling (Star Schema):** Estruturei o modelo de dados relacionando tabelas fato de transações com dimensões de calendário, unidades e clientes para garantir performance nos filtros cruzados.
-  * **Performance por Unidade:** Desenvolvi dashboards para identificar disparidades de faturamento e produtividade entre as franquias.
+  * **Performance por Unidade:** Desenvolvi dashboards para identificar disparidades de faturamento, receita e produtividade entre as franquias.
   * **Análise de Retenção e Recorrência:** Implementei lógicas para monitorar a saúde da base, separando o crescimento por aquisição da fidelização real.
   * **Eficiência Operacional:** Criei métricas de controle de tempo (SLAs) para monitorar o status de produtividade por serviço prestado.
 
 ## 3\. Tecnologias Utilizadas
 
-  * **SQL (Google BigQuery):** Utilizei para todo o processo de ETL, limpeza e criação de variáveis complexas de negócio.
-  * **Power BI:** Desenvolvi dashboards executivos com foco em UX para tomada de decisão rápida.
-  * **Análise Estratégica:** Apliquei visão de RevOps para sugerir planos de ação baseados nos dados extraídos.
+## Tecnologias e Aplicações
+
+### Power Query (M)
+
+* Estruturei pipelines de ETL para extração, transformação e carregamento de dados.
+* Realizei limpeza, padronização e enriquecimento de bases provenientes de múltiplas fontes.
+* Automatizei processos de tratamento de dados, reduzindo atividades manuais e aumentando a confiabilidade das informações.
+* Consolidei dados para garantir qualidade, consistência e governança analítica.
+
+### DAX (Data Analysis Expressions)
+
+* Desenvolvi medidas, KPIs e indicadores estratégicos com regras de negócio avançadas.
+* Criei cálculos complexos para análise de desempenho, rentabilidade, funil comercial e métricas operacionais.
+* Modelei indicadores voltados à tomada de decisão executiva e acompanhamento de resultados.
+* Transformei requisitos de negócio em métricas analíticas escaláveis e confiáveis.
+
+### SQL (Google BigQuery)
+
+* Utilizei SQL para consultas avançadas, manipulação e modelagem de dados.
+* Desenvolvi processos de ETL e criação de tabelas analíticas para suporte às análises.
+* Implementei regras de negócio e variáveis estratégicas diretamente na camada de dados.
+* Otimizei consultas para melhorar desempenho e eficiência no processamento.
+
+### Power BI
+
+* Desenvolvi dashboards executivos e operacionais com foco em UX e usabilidade.
+* Estruturei modelos de dados para análises self-service e monitoramento de indicadores.
+* Criei visualizações estratégicas para facilitar a identificação de tendências e oportunidades.
+* Apoiei a tomada de decisão por meio de painéis interativos e orientados a negócio.
+
+### Análise Estratégica (RevOps)
+
+* Conduzi análises orientadas a dados para geração de insights acionáveis.
+* Identifiquei oportunidades de otimização de receita, eficiência operacional e crescimento.
+* Desenvolvi recomendações estratégicas baseadas em indicadores de performance.
+* Apoiei decisões de negócio utilizando conceitos de Revenue Operations (RevOps) e Marketing Analytics.
+
 
 ## 4\. Metodologia Técnica (Engenharia de Dados)
 
