@@ -1,4 +1,4 @@
-# Strategic Business Intelligence Case - Setor de Beleza e Serviços
+# Strategic Business Intelligence - Setor de Beleza e Serviços
 
 ## 1\. Visão Geral do Projeto
 
