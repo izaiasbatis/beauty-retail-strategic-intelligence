@@ -1,5 +1,17 @@
 # Strategic Business Intelligence - Setor de Beleza e Serviços
 
+## Principais Resultados
+
+- 35 franquias analisadas.
+- 35,32% da receita concentrada nos 5 serviços mais vendidos.
+- Identificação de unidades com baixa eficiência operacional.
+- Análise de retenção e segmentação de clientes por comportamento de compra.
+- Recomendações estratégicas para aumento de receita, retenção e produtividade.
+
+## Visão Geral do Projeto
+
+Este projeto foi desenvolvido para transformar dados operacionais de uma rede de franquias do setor de beleza em insights estratégicos para tomada de decisão...
+
 ## 1\. Visão Geral do Projeto
 
 Neste repositório, apresento a resolução técnica focado em inteligência de negócios para uma rede de franquias. Meu objetivo foi diagnosticar oscilações de faturamento e identificar gargalos operacionais em 35 unidades. A análise foca no pilar central do modelo de negócio: a **eficiência e rapidez no atendimento**, utilizando técnicas para separar unidades de alta performance daquelas que necessitam de intervenção estratégica.
