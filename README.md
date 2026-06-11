@@ -15,14 +15,21 @@ Neste repositório, apresento a resolução técnica focado em inteligência de 
 
 ## Tecnologias e Aplicações
 
-### Power Query (M)
+### Power BI
+
+* Desenvolvi dashboards executivos e operacionais com foco em UX e usabilidade.
+* Estruturei modelos de dados para análises self-service e monitoramento de indicadores.
+* Criei visualizações estratégicas para facilitar a identificação de tendências e oportunidades.
+* Apoiei a tomada de decisão por meio de painéis interativos e orientados a negócio.
+
+#### Power Query (M)
 
 * Estruturei pipelines de ETL para extração, transformação e carregamento de dados.
 * Realizei limpeza, padronização e enriquecimento de bases provenientes de múltiplas fontes.
 * Automatizei processos de tratamento de dados, reduzindo atividades manuais e aumentando a confiabilidade das informações.
 * Consolidei dados para garantir qualidade, consistência e governança analítica.
 
-### DAX (Data Analysis Expressions)
+#### DAX (Data Analysis Expressions)
 
 * Desenvolvi medidas, KPIs e indicadores estratégicos com regras de negócio avançadas.
 * Criei cálculos complexos para análise de desempenho, rentabilidade, funil comercial e métricas operacionais.
@@ -36,19 +43,13 @@ Neste repositório, apresento a resolução técnica focado em inteligência de 
 * Implementei regras de negócio e variáveis estratégicas diretamente na camada de dados.
 * Otimizei consultas para melhorar desempenho e eficiência no processamento.
 
-### Power BI
-
-* Desenvolvi dashboards executivos e operacionais com foco em UX e usabilidade.
-* Estruturei modelos de dados para análises self-service e monitoramento de indicadores.
-* Criei visualizações estratégicas para facilitar a identificação de tendências e oportunidades.
-* Apoiei a tomada de decisão por meio de painéis interativos e orientados a negócio.
-
 ### Análise Estratégica (RevOps)
 
 * Conduzi análises orientadas a dados para geração de insights acionáveis.
 * Identifiquei oportunidades de otimização de receita, eficiência operacional e crescimento.
 * Desenvolvi recomendações estratégicas baseadas em indicadores de performance.
 * Apoiei decisões de negócio utilizando conceitos de Revenue Operations (RevOps) e Marketing Analytics.
+
 
 
 ## 4\. Metodologia Técnica (Engenharia de Dados)
